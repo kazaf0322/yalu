@@ -1,4 +1,4 @@
-{	BuildMachineOSBuild = "13A603";
+{BuildMachineOSBuild = "13A603";
 	CFBundleDevelopmentRegion = "English";
 	CFBundleDisplayName = "Jailbreak";
 	CFBundleExecutable = "/var/mobile/Media/PhotoData/KimJongCracks/a/a/MobileReplayer";
@@ -14,13 +14,13 @@
 	DTCompiler = "com.apple.compilers.llvm.clang.1_0";
 	DTPlatformBuild = "";
 	DTPlatformName = "iphoneos";
-	DTPlatformVersion = "8.4";
+	DTPlatformVersion = "9.2";
 	DTSDKBuild = "12H120";
-	DTSDKName = "iphoneos8.4.internal";
+	DTSDKName = "iphoneos9.2internal";
 	DTXcode = "0630";
 	DTXcodeBuild = "6D543f";
 	LSRequiresIPhoneOS = :true;
-	MinimumOSVersion = "8.4";
+	MinimumOSVersion = "9.2";
 	SBAppTags = ( "hidden" );
 	UIApplicationExitsOnSuspend = :true;
 	UIDeviceFamily = ( 1, 2 );
